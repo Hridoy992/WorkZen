@@ -46,11 +46,11 @@ Built on the MERN stack (MongoDB, Express.js, React.js, Node.js), the EMS provid
 
 * HR Role: HR professionals can manage employees, approve leaves, issue notices, and oversee recruitment with advanced controls.
 
-### 2. User Authentication & Authorization
+### 2. User Authentication & ization
 
 * Secure login system using JWT-based authentication.
 
-* Role-based permissions ensure sensitive data and functionalities are accessed only by authorized users.
+* Role-based permissions ensure sensitive data and functionalities are accessed only by ized users.
 
 ### 3. Attendance Management
 
@@ -242,7 +242,7 @@ Phase 4: Optimize for scalability and deploy a production-ready version.
 
 
 
-## 🧑‍💻 Authors & Acknowledgments
+## 🧑‍💻 s & Acknowledgments
 
 Darsh Jogi: Project Lead and Software Engineer
 

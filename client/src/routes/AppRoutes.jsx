@@ -9,13 +9,13 @@ export const router = createBrowserRouter([
         element: <AppLayout />,
         children: [
             ...EmployeeRoutes,
-            ...HRRoutes 
+            ...HRRoutes
         ]
     }
 ],
     {
         future: {
-            v7_relativeSplatPath: true,
+            v7_relativeSplatPath: false,
             v7_fetcherPersist: true,
             v7_normalizeFormMethod: true,
             v7_partialHydration: true,
