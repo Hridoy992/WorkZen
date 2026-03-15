@@ -5,7 +5,7 @@ import AppLayout from "../components/layout/AppLayout.jsx";
 
 export const router = createBrowserRouter([
     {
-        path: " /",
+        path: "/",
         element: <AppLayout />,
         children: [
             ...EmployeeRoutes,
